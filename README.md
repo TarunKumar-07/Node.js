@@ -28,6 +28,6 @@ This repo is about what I learned about things in node.js
   4. ``` npm i mongoose ```
   5. ``` npm i express-session ```
   6. Install at one click use 
-   ```
-    npm i passport passport-local passport-local-mongoose mongoose express-session
-   ```
+      ```
+       npm i passport passport-local passport-local-mongoose mongoose express-session
+      ```
