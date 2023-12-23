@@ -23,9 +23,9 @@ This repo is about what I learned about things in node.js
    ```
 6. For AuthDemo, you need to install
    1.
-     ```
+      ```
         npm i passport
-     ```
+      ```
    2.
       ```
          npm i passport-local
