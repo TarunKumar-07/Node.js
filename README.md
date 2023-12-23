@@ -22,12 +22,27 @@ This repo is about what I learned about things in node.js
     npm i express-session
    ```
 6. For AuthDemo, you need to install
-  1. ``` npm i passport ```
-  2. ``` npm i passport-local ```
-  3. ``` npm i passport-local-mongoose ```
-  4. ``` npm i mongoose ```
-  5. ``` npm i express-session ```
-  6. Install at one click use 
+  1.
+     ```
+     npm i passport
+     ```
+  3.
+     ```
+     npm i passport-local
+     ```
+  4.
+     ```
+     npm i passport-local-mongoose
+     ```
+  5.
+     ```
+       npm i mongoose
+     ```
+  6.
+     ```
+       npm i express-session
+     ```
+  10. Install at one click use 
       ```
        npm i passport passport-local passport-local-mongoose mongoose express-session
       ```
